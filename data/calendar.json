@@ -1,0 +1,26 @@
+{
+  "card":[
+    [{
+        "type": "calendar",
+        "date": "2/1",
+        "dday": "D - 4",
+        "text": "개학"
+      },
+      {
+        "type": "plain",
+        "text": "학교 가기 싫다"
+      }
+    ],
+    [{
+        "type": "calendar",
+        "date": "2/9",
+        "dday": "D - 18",
+        "text": "졸업식"
+      },
+      {
+        "type": "plain",
+        "text": "이젠 누가 고3이지?"
+      }
+    ]
+  ]
+}
