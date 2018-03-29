@@ -1,4 +1,6 @@
-const klunch = require('k-lunch')
+const client = require('cheerio-httpcli')
+const request = require('request')
+const ft = require('../module/ft.js')
 
 Date.prototype.yyyymmdd = function() {
   var mm = this.getMonth() + 1; // getMonth() is zero-based
@@ -9,61 +11,48 @@ Date.prototype.yyyymmdd = function() {
           (dd>9 ? '' : '0') + dd
          ].join('');
 }
-
-const parseDate = (date)=>{
-  return {
-    year : date.getFullYear(),
-    month : date.getMonth()+1,
-    day : getDate()
-  }
+const saveBob = (data,callback) => {
+  ft.read('data/')
 }
-
-const parseBob = (output) => {
-  const ret = []
-  for (var i = 0; i < output.length; i++) {
-    ret.push(output[i].menu)
-  }
-  return ret
+const getBob = (callback) => {
+  const url = 'http://www.keisung.hs.kr/user/carte/list.do'
+  const param = {}
+  const ret = {}
+  const today = new Date()
+  ret.today = today.yyyymmdd()
+  client.fetch(url, param, function(err, $, res){
+    if(err) {console.log(err); return;}
+    $('.meals_today_list li').each(function(idx){
+      let time
+      let menu
+      $(this).find('img').each(function(idx){
+        time = $(this).attr('alt')
+      })
+      menu = $(this).text()
+      menu = menu.replace(/[ㆍ0-9\. \t\r]/g,'').trim().split('\n')
+      ret[time] = menu
+    })
+    callback(ret)
+  })
 }
-
 module.exports = class{
   constructor(){
       this.bob = {}
-      this.form.form = {
-        time: time, // Breakfast = 1, Lunch = 2, Dinner = 3
-        name: '계성고등학교',
-        phase: 4 // Elementary School = 2, Middle School = 3, High School = 4
-      }
-      this.form.options = {
-        autoCode: true,
-        autoDomain: true
-      }
   }
-  getBob = (date) => {
+  update(){
     return new Promise((res,rej) => {
-      const newdate = parseDate(date)
-      this.form.form.year = newdate.year
-      this.form.form.month = newdate.month
-      this.form.form.day = newdate.month
-      klunch.getLunch(this.form.form, (err, output) => {
-        if(err) rej(err)
-        res(parseBob(output))
-      }, this.form.options)
-    })
-  }
-  callBob = (date) => {
-    return new Promise((res,rej) => {
+      date = new Date()
       const todayString = date.yyyymmdd()
       if (typeof this.bob[todayString] == "undefined"){
-        getBob(date).then((output) => {
-          this.bob[todayString] = output
-          res(output)
+        console.log('급식 정보를 불러옵니다.')
+        this.getBob((output) => {
+          this.bob[todayString] = true
+          res()
         })
       }
       else{
-        res(this.bob[todayString])
+        res()
       }
     })
   }
-
 }
