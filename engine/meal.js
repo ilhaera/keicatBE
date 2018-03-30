@@ -39,20 +39,32 @@ module.exports = class{
   constructor(){
       this.bob = {}
   }
-  update(){
+  callBob(){
     return new Promise((res,rej) => {
-      date = new Date()
+      const date = new Date()
+      console.log('급식 요청 '+date.yyyymmdd())
       const todayString = date.yyyymmdd()
       if (typeof this.bob[todayString] == "undefined"){
-        console.log('급식 정보를 불러옵니다.')
-        this.getBob((output) => {
-          this.bob[todayString] = true
-          res()
+        this.update().then((result) => {
+          res(result)
         })
       }
       else{
-        res()
+        res(this.bob[todayString])
       }
+    })
+  }
+  update(){
+    return new Promise((res,rej) => {
+      const date = new Date()
+      const todayString = date.yyyymmdd()
+      console.log('급식 정보를 불러옵니다.')
+      getBob((output) => {
+        this.bob[todayString] = output
+        console.log('성공!')
+        console.log(output)
+        res(output)
+      })
     })
   }
 }
