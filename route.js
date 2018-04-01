@@ -1,7 +1,7 @@
 const Router = require('koa-router')
-const ftSync = require("../module/ftSync.js")
+const ftSync = require("./module/ftSync.js")
 const global = JSON.parse(ftSync.read("data/global.json"))
-const Meal = require('../engine/meal.js')
+const Meal = require('./engine/meal.js')
 const meal = new Meal()
 meal.update()
 

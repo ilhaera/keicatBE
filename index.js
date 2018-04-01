@@ -18,7 +18,7 @@ const app = new Koa()
 const PORT = 3000
 const sslPORT = 3001
 app.use(cors())
-const route = require('./route/route.js')(app,debug)
+const route = require('./route.js')(app,debug)
 http.createServer(app.callback()).listen(PORT)
 https.createServer(option,app.callback()).listen(sslPORT)
 debug.notice(PORT+' 포트 작동 중')
