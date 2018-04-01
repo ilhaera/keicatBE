@@ -11,9 +11,6 @@ Date.prototype.yyyymmdd = function() {
           (dd>9 ? '' : '0') + dd
          ].join('');
 }
-const saveBob = (data,callback) => {
-  ft.read('data/')
-}
 const getBob = (callback) => {
   const url = 'http://www.keisung.hs.kr/user/carte/list.do'
   const param = {}
