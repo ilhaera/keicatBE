@@ -3,12 +3,17 @@ const ftSync = require("./module/ftSync.js")
 const global = JSON.parse(ftSync.read("data/global.json"))
 const Meal = require('./engine/meal.js')
 const meal = new Meal()
+const View = require('./engine/view.js')
+const view = new View()
 meal.update()
 
 router = new Router()
 module.exports = (app, debug) => {
   router.get('/', (ctx, next) => {
     ctx.redirect('http://github.com/ilhaera')
+  })
+  router.get('/view', (ctx, next) => {
+    ctx.body = view.viewer()
   })
   router.get('/notice', (ctx, next) => {
     ctx.body = ftSync.read('data/notice.json')
@@ -22,6 +27,9 @@ module.exports = (app, debug) => {
   })
   router.get('/meal', async (ctx, next) => {
     ctx.body = await meal.callBob()
+  })
+  router.get('/link', (ctx, next) => {
+    ctx.body = ftSync.read('data/link.json')
   })
   router.get('/schedule/:ban', (ctx, next) => {
     let ban = ctx.params.ban

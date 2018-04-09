@@ -3,9 +3,9 @@ const http = require('http')
 const https = require('https')
 const cors = require('@koa/cors')
 const option = {
-  ca : fs.readFileSync('/etc/letsencrypt/live/newline.kr/fullchain.pem'),
-  key: fs.readFileSync('/etc/letsencrypt/live/newline.kr/privkey.pem'),
-  cert: fs.readFileSync('/etc/letsencrypt/live/newline.kr/cert.pem')
+  ca : fs.readFileSync('/etc/letsencrypt/live/keicat.com/fullchain.pem'),
+  key: fs.readFileSync('/etc/letsencrypt/live/keicat.com/privkey.pem'),
+  cert: fs.readFileSync('/etc/letsencrypt/live/keicat.com/cert.pem')
 }
 const koa_ssl = require('koa-sslify')
 
