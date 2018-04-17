@@ -1,5 +1,5 @@
 const fs = require('fs')
-const http = require('http')
+const logger = require('./module/logger.js')
 const https = require('https')
 const cors = require('@koa/cors')
 const option = {
@@ -10,16 +10,12 @@ const option = {
 const koa_ssl = require('koa-sslify')
 
 const Koa = require('koa')
-const logger = require('./module/logger.js')
 const debug = new logger()
 const serve = require('koa-static')
 
 const app = new Koa()
-const PORT = 3000
-const sslPORT = 3001
+const PORT = 3001
 app.use(cors())
 const route = require('./route.js')(app,debug)
-http.createServer(app.callback()).listen(PORT)
-https.createServer(option,app.callback()).listen(sslPORT)
+https.createServer(option,app.callback()).listen(PORT)
 debug.notice(PORT+' 포트 작동 중')
-debug.notice(sslPORT+' 포트 작동 중 (ssl)')

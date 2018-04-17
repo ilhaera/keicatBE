@@ -18,6 +18,7 @@ module.exports = class{
     this.update()
   }
   update(){
+    this.today = (new Date()).yyyymmdd()
     const today = this.today
     if (typeof this.view[today] == 'undefined'){
       this.view[today] = 0
