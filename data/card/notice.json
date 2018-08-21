@@ -1,0 +1,26 @@
+[
+  {
+    "title": {
+      "type": "post",
+      "title": "중간고사 시간표",
+      "summary": "1학기 중간고사 시간표입니다",
+      "link": "/notice"
+    },
+    "content": {
+      "type": "plain",
+      "text": "그냥 내용"
+    }
+  },
+  {
+    "title": {
+      "type": "post",
+      "title": "기말고사 시간표",
+      "summary": "1학기 기말고사 시간표입니다",
+      "link": "/notice"
+    },
+    "content": {
+      "type": "plain",
+      "text": "그냥 내용"
+    }
+  }
+]

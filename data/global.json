@@ -1,7 +1,0 @@
-{
-  "index" : ["calendar","notice","schedule"],
-  "class" : {
-    "age" : 3,
-    "ban" : 10
-  }
-}

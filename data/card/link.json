@@ -1,0 +1,24 @@
+[
+  {
+    "title": {
+      "type": "title",
+      "title": "학교 홈페이지"
+    },
+    "content": {
+      "type": "link",
+      "text": "keisung.hs.kr",
+      "link": "http://www.keisung.hs.kr"
+    }
+  },
+  {
+    "title": {
+      "type": "title",
+      "title": "계성고등학교 대나무숲"
+    },
+    "content": {
+      "type": "link",
+      "text": "facebook.com/KeisungBamboo",
+      "link": "https://www.facebook.com/KeisungBamboo/"
+    }
+  }
+]

@@ -1,0 +1,4090 @@
+ Wed Jun 20 2018 20:44:09 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 20:44:23 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 20:46:26 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 20:47:48 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 20:49:21 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 20:50:19 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 20:50:30 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+??
+ Wed Jun 20 2018 20:51:40 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err Error: ENOENT: no such file or directory, open 'data/timetable/1/01.json'
+ Wed Jun 20 2018 20:59:49 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:01:12 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:26:23 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:26:43 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:45:10 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:46:55 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err SyntaxError: Unexpected end of JSON input
+ Wed Jun 20 2018 21:47:21 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:47:26 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:47:43 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:47:48 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:47:50 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:47:51 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:48:20 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+ Wed Jun 20 2018 21:48:24 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:51:08 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+ Wed Jun 20 2018 21:51:16 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+ Wed Jun 20 2018 21:51:18 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+ Wed Jun 20 2018 21:51:20 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+ Wed Jun 20 2018 21:53:05 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+ Wed Jun 20 2018 21:53:08 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+ Wed Jun 20 2018 21:53:10 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 21:53:18 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+[object Object]
+[object Object]
+ Wed Jun 20 2018 21:53:41 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Wed Jun 20 2018 22:03:27 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err Error: ENOENT: no such file or directory, open 'data/notice/notice.json'
+ Wed Jun 20 2018 22:03:50 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+{"20180620":9}회 조회
+ Wed Jun 20 2018 22:04:13 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Promise]회 조회
+ Wed Jun 20 2018 22:04:26 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+11회 조회
+12회 조회
+13회 조회
+ Thu Jun 21 2018 13:35:15 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+1회 조회
+2회 조회
+3회 조회
+ Thu Jun 21 2018 14:15:47 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 14:16:15 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 14:16:30 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 14:19:32 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 14:20:06 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:23:46 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:24:09 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:28:14 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:29:14 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:29:35 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:33:13 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:38:10 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:40:20 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err TypeError: nextday.setTime(...).getTime is not a function
+ Thu Jun 21 2018 15:41:46 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err TypeError: Cannot set property '0' of undefined
+ Thu Jun 21 2018 15:42:50 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err ReferenceError: nextdatestr is not defined
+There's no data in table.
+ Thu Jun 21 2018 15:43:20 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+There's no data in table.
+There's no data in table.
+ Thu Jun 21 2018 15:44:37 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:46:13 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:49:56 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err ReferenceError: menu is not defined
+ Thu Jun 21 2018 15:50:19 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err ReferenceError: menu is not defined
+ Thu Jun 21 2018 15:50:36 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 15:50:47 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+err ReferenceError: menu is not defined
+ Thu Jun 21 2018 15:51:03 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+err ReferenceError: menu is not defined
+ Thu Jun 21 2018 15:51:43 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+There's no data in table.
+There's no data in table.
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+There's no data in table.
+There's no data in table.
+ Thu Jun 21 2018 16:22:44 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 16:25:14 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+There's no data in table.
+There's no data in table.
+err TypeError: Assignment to constant variable.
+ Thu Jun 21 2018 16:32:38 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+There's no data in table.
+There's no data in table.
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+There's no data in table.
+There's no data in table.
+ Thu Jun 21 2018 16:37:20 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 16:37:40 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 16:58:15 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 17:03:34 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+There's no data in table.
+There's no data in table.
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+There's no data in table.
+There's no data in table.
+ Thu Jun 21 2018 17:03:56 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+There's no data in table.
+There's no data in table.
+ Thu Jun 21 2018 17:16:39 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 17:28:45 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 17:45:17 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 17:47:14 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 17:52:00 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 17:52:17 GMT+0900 (KST) 로깅 시작
+ Thu Jun 21 2018 17:52:37 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 17:53:27 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 17:53:47 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 17:53:54 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err SyntaxError: Unexpected token u in JSON at position 1
+ Thu Jun 21 2018 17:54:47 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err TypeError: Cannot read property 'push' of undefined
+ Thu Jun 21 2018 17:57:01 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 17:57:20 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+err TypeError: Cannot read property 'push' of undefined
+ Thu Jun 21 2018 18:00:04 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+err TypeError: Cannot read property 'push' of undefined
+ Thu Jun 21 2018 19:05:52 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Thu Jun 21 2018 19:07:06 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+[object Object]
+ Thu Jun 21 2018 19:11:02 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+[object Object]
+ Thu Jun 21 2018 20:22:51 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+err TypeError: Cannot read property '0' of undefined
+ Thu Jun 21 2018 20:28:36 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+err TypeError: Cannot read property '0' of undefined
+ Thu Jun 21 2018 20:34:07 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+[object Object]
+ Thu Jun 21 2018 20:53:56 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 17:07:51 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+[object Object]
+ Sun Jun 24 2018 17:09:06 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 17:11:14 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+[object Object]
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+ Sun Jun 24 2018 17:15:55 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+false
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+false
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+ Sun Jun 24 2018 17:17:19 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+20180624
+20180624
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+ Sun Jun 24 2018 17:18:18 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+20180624
+20180624
+ Sun Jun 24 2018 17:24:33 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+20180624
+20180624
+ Sun Jun 24 2018 17:25:51 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+ Sun Jun 24 2018 17:26:54 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+20180624
+20180624
+20180624
+20180624
+ Sun Jun 24 2018 17:28:22 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+There's no data in table.
+There's no data in table.
+There's no data in table.
+There's no data in table.
+ Sun Jun 24 2018 17:29:23 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+[object Object]
+err There's no data in table.
+err There's no data in table.
+20180624
+20180624
+err There's no data in table.
+err There's no data in table.
+ Sun Jun 24 2018 17:30:09 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+err There's no data in table.
+null
+ Sun Jun 24 2018 17:33:34 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+ Sun Jun 24 2018 17:38:34 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+null
+err There's no data in table.
+err There's no data in table.
+null
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+err There's no data in table.
+null
+ Sun Jun 24 2018 17:39:02 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+ Sun Jun 24 2018 17:45:32 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+null
+err There's no data in table.
+err There's no data in table.
+null
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+20180624
+20180624
+20180624
+20180624
+ Sun Jun 24 2018 18:01:17 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 18:16:14 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 18:16:24 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+20180624
+20180624
+[object Object]
+[object Object]
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+ Sun Jun 24 2018 18:16:44 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+20180624
+20180624
+[object Object]
+[object Object]
+err There's no data in table.
+null
+err There's no data in table.
+err There's no data in table.
+null
+null
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+ Sun Jun 24 2018 18:20:52 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 18:23:35 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 18:24:13 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+imp 급식 로드
+20180624
+20180624
+[object Object]
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+ Sun Jun 24 2018 18:26:56 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+imp 급식 로드
+20180624
+20180624
+[object Object]
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+ Sun Jun 24 2018 18:28:04 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+imp 급식 로드
+체크 전
+20180624
+20180624
+true
+20180624
+20180624
+[object Object]
+err There's no data in table.
+null
+err There's no data in table.
+null
+err There's no data in table.
+null
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+err There's no data in table.
+null
+20180624
+20180624
+ Sun Jun 24 2018 18:29:19 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+[object Object]
+imp 급식 로드
+20180624
+true
+20180624
+20180624
+체크 전
+20180624
+[object Object]
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+ Sun Jun 24 2018 18:30:04 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+imp 급식 로드
+체크 전
+20180624
+20180624
+true
+20180624
+20180624
+[object Object]
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+ Sun Jun 24 2018 18:31:09 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+imp 급식 로드
+체크 전
+20180624
+20180624
+true
+20180624
+20180624
+[object Object]
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+ Sun Jun 24 2018 18:32:32 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 18:32:40 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+[object Object]
+imp 급식 로드
+체크 전
+20180624
+20180624
+true
+20180624
+20180624
+[object Object]
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+[object Object]
+imp 급식 로드
+체크 전
+20180624
+true
+20180624
+20180624
+20180624
+[object Object]
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+ Sun Jun 24 2018 18:42:42 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+체크 전
+20180624
+true
+20180624
+20180624
+20180624
+[object Object]
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+ Sun Jun 24 2018 18:43:06 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+체크 전
+20180624
+20180624
+20180624
+true
+20180624
+[object Object]
+ Sun Jun 24 2018 18:43:46 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+체크 전
+20180624
+20180624
+true
+20180624
+20180624
+[object Object]
+ Sun Jun 24 2018 19:05:21 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+체크 전
+20180624
+20180624
+true
+20180624
+20180624
+[object Object]
+ Sun Jun 24 2018 19:08:05 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 19:08:23 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+20180624
+20180624
+true
+20180624
+20180624
+[object Object]
+ Sun Jun 24 2018 19:19:59 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 19:36:00 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+20180624
+20180624
+true
+20180624
+20180624
+[object Object]
+ Sun Jun 24 2018 19:36:28 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+20180624
+20180624
+true
+20180624
+20180624
+[object Object]
+ Sun Jun 24 2018 19:37:37 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+false
+20180624
+undefined
+imp 급식 로드
+[object Object]
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+ Sun Jun 24 2018 19:37:59 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+err There's no data in table.
+err There's no data in table.
+[object Object]
+ Sun Jun 24 2018 19:39:36 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 19:39:44 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드
+ Sun Jun 24 2018 19:40:05 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err Error: Parse Error
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+ Sun Jun 24 2018 19:42:45 GMT+0900 (KST) 로깅 시작
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+imp 이니셜라이징 완료
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+ Sun Jun 24 2018 19:42:48 GMT+0900 (KST) 로깅 시작
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+imp 이니셜라이징...
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+ Sun Jun 24 2018 19:43:49 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+ Sun Jun 24 2018 19:45:18 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+ Sun Jun 24 2018 20:03:30 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+ Sun Jun 24 2018 20:08:38 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 20:15:43 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 20:15:58 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 20:16:26 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 20:17:45 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 20:21:22 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 20:22:01 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 20:23:23 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+20180624
+20180624
+20180624
+20180624
+ Sun Jun 24 2018 23:17:01 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+20180624
+20180624
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 23:17:55 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 23:18:15 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+undefined
+false
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 23:20:04 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 23:34:56 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 23:37:47 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err TypeError: push is not a function
+ Sun Jun 24 2018 23:38:29 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err Error: Parse Error
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 23:39:33 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+true
+20180624
+20180624
+20180624
+[object Object]
+imp 카드데이터 로드 완료
+ Sun Jun 24 2018 23:55:47 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 23:56:25 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Sun Jun 24 2018 23:56:41 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+20180624
+undefined
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+ Sun Jun 24 2018 23:57:20 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180624
+false
+undefined
+20180624
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+20180624
+20180624
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180624
+20180624
+true
+20180624
+20180624
+imp 카드데이터 로드 완료
+[object Object]
+ Mon Jun 25 2018 00:06:18 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180625
+false
+undefined
+20180625
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+ Mon Jun 25 2018 00:07:02 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180625
+false
+undefined
+20180625
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+[object Object]
+imp 카드데이터 로드 완료
+ Mon Jun 25 2018 00:08:21 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180625
+false
+undefined
+20180625
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+ Mon Jun 25 2018 00:24:24 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180625
+false
+undefined
+20180625
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+ Mon Jun 25 2018 00:32:26 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180625
+false
+undefined
+20180625
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+true
+20180625
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+true
+20180625
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+true
+20180625
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180625
+true
+20180625
+20180625
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180625
+20180626
+false
+20180625
+20180626
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+true
+20180626
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+true
+20180626
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180626
+true
+20180626
+20180626
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180626
+20180627
+false
+20180626
+20180627
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+20180627
+true
+20180627
+20180627
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+20180627
+true
+20180627
+20180627
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+20180627
+true
+20180627
+20180627
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+20180627
+20180627
+true
+20180627
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+20180627
+true
+20180627
+20180627
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+true
+20180627
+20180627
+20180627
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+20180627
+true
+20180627
+20180627
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+20180627
+true
+20180627
+20180627
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+20180627
+true
+20180627
+20180627
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+20180627
+true
+20180627
+20180627
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180627
+20180628
+false
+20180627
+20180628
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180628
+20180628
+true
+20180628
+20180628
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180628
+20180628
+true
+20180628
+20180628
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180628
+20180628
+true
+20180628
+20180628
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180628
+20180628
+true
+20180628
+20180628
+[object Object]
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180628
+20180628
+true
+20180628
+20180628
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180628
+20180628
+true
+20180628
+20180628
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180628
+20180629
+false
+20180628
+20180629
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180629
+20180629
+true
+20180629
+20180629
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180629
+20180629
+true
+20180629
+20180629
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180629
+20180629
+20180629
+true
+20180629
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180629
+20180629
+true
+20180629
+20180629
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180629
+20180629
+true
+20180629
+20180629
+[object Object]
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180629
+20180629
+true
+20180629
+20180629
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180629
+20180629
+true
+20180629
+20180629
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180629
+20180630
+false
+20180629
+20180630
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180630
+20180630
+true
+20180630
+20180630
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180630
+20180630
+true
+20180630
+20180630
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180630
+20180630
+true
+20180630
+20180630
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180630
+20180701
+false
+20180630
+20180701
+imp 급식 로드
+ Mon Jul 02 2018 12:23:02 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Mon Jul 02 2018 12:23:38 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Mon Jul 02 2018 12:23:59 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Mon Jul 02 2018 12:25:01 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180702
+false
+undefined
+20180702
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+true
+20180702
+20180702
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+true
+20180702
+20180702
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+true
+20180702
+20180702
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+true
+20180702
+20180702
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+true
+20180702
+20180702
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+true
+20180702
+20180702
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+20180702
+true
+20180702
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+true
+20180702
+20180702
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+true
+20180702
+20180702
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+true
+20180702
+20180702
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180702
+20180702
+true
+20180702
+20180702
+[object Object]
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180702
+20180703
+false
+20180702
+20180703
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180703
+true
+20180703
+20180703
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180703
+20180704
+false
+20180703
+20180704
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180704
+20180704
+true
+20180704
+20180704
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180704
+20180704
+true
+20180704
+20180704
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180704
+20180704
+true
+20180704
+20180704
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180704
+20180704
+true
+20180704
+20180704
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180704
+20180705
+false
+20180704
+20180705
+imp 급식 로드
+ Thu Jul 05 2018 00:05:51 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180705
+false
+undefined
+20180705
+imp 급식 로드
+err There's no data in table.
+err TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+imp 카드데이터 로드
+20180705
+20180705
+true
+20180705
+20180705
+err TypeError: Cannot read property '0' of undefined
+err There's no data in table.
+err There's no data in table.
+[object Object]
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180705
+20180705
+true
+20180705
+20180705
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180705
+20180705
+true
+20180705
+20180705
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180705
+20180705
+true
+20180705
+20180705
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180705
+20180705
+true
+20180705
+20180705
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180705
+20180705
+true
+20180705
+20180705
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180705
+20180705
+true
+20180705
+20180705
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180705
+20180705
+20180705
+true
+20180705
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180705
+20180705
+true
+20180705
+20180705
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180705
+20180706
+false
+20180705
+20180706
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180706
+20180706
+true
+20180706
+20180706
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180706
+20180706
+true
+20180706
+20180706
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180706
+20180706
+20180706
+true
+20180706
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180706
+20180706
+true
+20180706
+20180706
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180706
+20180706
+true
+20180706
+20180706
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180706
+20180707
+false
+20180706
+20180707
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+[object Object]
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180707
+20180708
+false
+20180707
+20180708
+imp 급식 로드
+ Sun Jul 08 2018 03:45:23 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180708
+false
+undefined
+20180708
+imp 급식 로드
+ Sun Jul 08 2018 16:10:24 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180709
+false
+undefined
+20180709
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180709
+20180709
+true
+20180709
+20180709
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180709
+20180709
+true
+20180709
+20180709
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180709
+20180709
+true
+20180709
+20180709
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180709
+20180709
+true
+20180709
+20180709
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180709
+20180710
+false
+20180709
+20180710
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180710
+true
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+true
+20180710
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180710
+true
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180710
+true
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180710
+true
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180710
+true
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180710
+true
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180710
+true
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180710
+true
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180710
+true
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180710
+true
+20180710
+20180710
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180710
+20180711
+false
+20180710
+20180711
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180711
+20180711
+true
+20180711
+20180711
+imp 카드데이터 로드 완료
+[object Object]
+ Wed Jul 11 2018 16:57:35 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180711
+false
+undefined
+20180711
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180711
+20180711
+true
+20180711
+20180711
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180711
+20180711
+true
+20180711
+20180711
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180711
+20180711
+true
+20180711
+20180711
+[object Object]
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180711
+20180711
+true
+20180711
+20180711
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180711
+20180712
+false
+20180711
+20180712
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+20180712
+true
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+true
+20180712
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180712
+true
+20180712
+20180712
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180712
+20180713
+false
+20180712
+20180713
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+20180713
+true
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+20180713
+true
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+true
+20180713
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+true
+20180713
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+20180713
+true
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+20180713
+true
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+20180713
+true
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+20180713
+true
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+20180713
+true
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+20180713
+true
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+20180713
+true
+20180713
+20180713
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180713
+20180715
+false
+20180713
+20180715
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180715
+20180716
+false
+20180715
+20180716
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180716
+20180716
+true
+20180716
+20180716
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180716
+20180716
+true
+20180716
+20180716
+[object Object]
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180716
+20180716
+true
+20180716
+20180716
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180716
+20180716
+true
+20180716
+20180716
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180716
+20180716
+true
+20180716
+20180716
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180716
+20180716
+true
+20180716
+20180716
+[object Object]
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180716
+20180716
+true
+20180716
+20180716
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180716
+20180716
+true
+20180716
+20180716
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180716
+20180716
+true
+20180716
+20180716
+imp 카드데이터 로드 완료
+[object Object]
+ Mon Jul 16 2018 20:46:26 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180716
+false
+undefined
+20180716
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180716
+20180717
+false
+20180716
+20180717
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180717
+20180717
+true
+20180717
+20180717
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180717
+20180717
+true
+20180717
+20180717
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180717
+20180717
+true
+20180717
+20180717
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180717
+20180717
+true
+20180717
+20180717
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180717
+20180718
+false
+20180717
+20180718
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+true
+20180718
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+true
+20180718
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+true
+20180718
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+true
+20180718
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+true
+20180718
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+true
+20180718
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+true
+20180718
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+true
+20180718
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+true
+20180718
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+20180718
+true
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180718
+true
+20180718
+20180718
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180718
+20180719
+false
+20180718
+20180719
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180719
+true
+20180719
+20180719
+20180719
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180719
+20180719
+true
+20180719
+20180719
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180719
+20180719
+true
+20180719
+20180719
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180719
+20180719
+true
+20180719
+20180719
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180719
+20180719
+true
+20180719
+20180719
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180719
+20180719
+true
+20180719
+20180719
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180719
+20180719
+true
+20180719
+20180719
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180719
+20180719
+true
+20180719
+20180719
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180719
+20180719
+true
+20180719
+20180719
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180719
+20180722
+false
+20180719
+20180722
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180722
+20180722
+true
+20180722
+20180722
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180722
+20180723
+false
+20180722
+20180723
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180723
+20180723
+true
+20180723
+20180723
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180723
+20180723
+true
+20180723
+20180723
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180723
+20180724
+false
+20180723
+20180724
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180724
+20180725
+false
+20180724
+20180725
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180725
+20180726
+false
+20180725
+20180726
+imp 급식 로드
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180726
+20180726
+true
+20180726
+20180726
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180726
+20180726
+20180726
+true
+20180726
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180726
+20180726
+true
+20180726
+20180726
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180726
+20180726
+true
+20180726
+20180726
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180726
+20180728
+false
+20180726
+20180728
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180728
+20180728
+true
+20180728
+20180728
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180728
+20180728
+true
+20180728
+20180728
+imp 카드데이터 로드 완료
+[object Object]
+ Tue Jul 31 2018 10:55:39 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180731
+false
+undefined
+20180731
+imp 급식 로드
+imp 카드데이터 로드 완료
+[object Object]
+ Tue Jul 31 2018 10:57:25 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180731
+false
+undefined
+20180731
+imp 급식 로드
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+20180731
+true
+20180731
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+20180731
+true
+20180731
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+20180731
+true
+20180731
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+20180731
+true
+20180731
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+20180731
+true
+20180731
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+20180731
+true
+20180731
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+true
+20180731
+20180731
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+20180731
+true
+20180731
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+true
+20180731
+20180731
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+20180731
+20180731
+true
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+20180731
+true
+20180731
+20180731
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180731
+20180801
+false
+20180731
+20180801
+imp 급식 로드
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180801
+20180801
+true
+20180801
+20180801
+[object Object]
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+20180801
+20180801
+true
+20180801
+20180801
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180801
+20180801
+true
+20180801
+20180801
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180801
+20180801
+true
+20180801
+20180801
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180801
+20180802
+false
+20180801
+20180802
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180802
+20180802
+true
+20180802
+20180802
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180802
+20180802
+true
+20180802
+20180802
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180802
+20180802
+true
+20180802
+20180802
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180802
+20180802
+true
+20180802
+20180802
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+20180802
+20180803
+false
+20180802
+20180803
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+ Tue Aug 21 2018 10:57:08 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+undefined
+20180821
+false
+undefined
+20180821
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+ Tue Aug 21 2018 10:59:38 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 10:59:40 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 10:59:42 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+false
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+ Tue Aug 21 2018 11:16:12 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+false
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+ Tue Aug 21 2018 11:59:11 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 12:00:49 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+false
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+ Tue Aug 21 2018 13:11:14 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+false
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+[object Object]
+ Tue Aug 21 2018 13:35:54 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 13:37:58 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 13:46:16 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 13:47:59 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 정상 종료
+imp 정상 종료
+ Tue Aug 21 2018 13:48:46 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 13:48:51 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 13:48:56 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 13:56:21 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 14:00:58 GMT+0900 (KST) 로깅 시작
+imp 급식 로드
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 14:03:42 GMT+0900 (KST) 로깅 시작
+imp 급식 로드
+imp 3390 포트 작동 중
+err There's no data in table.
+err There's no data in table.
+ Tue Aug 21 2018 14:03:53 GMT+0900 (KST) 로깅 시작
+imp 급식 로드
+imp 3390 포트 작동 중
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+1회 조회
+ Tue Aug 21 2018 14:07:17 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 카드데이터 로드
+false
+imp 급식 로드
+2회 조회
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드 완료
+ Tue Aug 21 2018 14:07:47 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 14:08:24 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 14:08:36 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 14:10:59 GMT+0900 (KST) 로깅 시작
+imp 급식 로드
+imp 3390 포트 작동 중
+err There's no data in table.
+err There's no data in table.
+ Tue Aug 21 2018 14:11:07 GMT+0900 (KST) 로깅 시작
+imp 급식 로드
+imp 3390 포트 작동 중
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+3회 조회
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+ Tue Aug 21 2018 14:22:00 GMT+0900 (KST) 로깅 시작
+imp 급식 로드
+imp 3390 포트 작동 중
+err There's no data in table.
+err There's no data in table.
+ Tue Aug 21 2018 15:54:46 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+4회 조회
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+ Tue Aug 21 2018 15:58:14 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+5회 조회
+6회 조회
+ Tue Aug 21 2018 16:03:57 GMT+0900 (KST) 로깅 시작
+imp 급식 로드
+imp 3390 포트 작동 중
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드
+true
+7회 조회
+imp 카드데이터 로드 완료
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+ Tue Aug 21 2018 16:49:29 GMT+0900 (KST) 로깅 시작
+imp 급식 로드
+imp 3390 포트 작동 중
+err There's no data in table.
+err There's no data in table.
+ Tue Aug 21 2018 16:52:32 GMT+0900 (KST) 로깅 시작
+imp 급식 로드
+imp 3390 포트 작동 중
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+8회 조회
+ Tue Aug 21 2018 17:05:52 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+ Tue Aug 21 2018 17:05:53 GMT+0900 (KST) 로깅 시작
+imp 급식 로드
+imp 3390 포트 작동 중
+err There's no data in table.
+err There's no data in table.
+ Tue Aug 21 2018 17:06:29 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+ Tue Aug 21 2018 17:07:10 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+9회 조회
+ Tue Aug 21 2018 17:43:34 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
+ Tue Aug 21 2018 17:47:05 GMT+0900 (KST) 로깅 시작
+imp 3390 포트 작동 중
+imp 급식 로드
+err There's no data in table.
+err There's no data in table.

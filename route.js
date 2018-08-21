@@ -1,59 +1,54 @@
 const Router = require('koa-router')
-const ftSync = require("./module/ftSync.js")
-const global = JSON.parse(ftSync.read("data/global.json"))
-const Meal = require('./engine/meal.js')
-const meal = new Meal()
-const View = require('./engine/view.js')
-const view = new View()
-meal.update()
+const fs = require('fs')
+const util = require('util')
+const readFile = util.promisify(fs.readFile)
+const writeFile = util.promisify(fs.writeFile)
+
+const timetable = require('./core/timetable.js')
+const view = require('./core/view.js')
+const meal = require('./core/meal.js')
+const card = require('./core/card.js')
 
 router = new Router()
-module.exports = (app, debug) => {
-  router.get('/', (ctx, next) => {
-    ctx.redirect('http://github.com/ilhaera')
+const initialMeal = async function () { await meal.load() }
+initialMeal()
+module.exports = (app) => {
+  router.get('/view', async (ctx, next) => {
+    ctx.body = await view.view()
+    debug.log(`${ctx.body}회 조회`)
   })
-  router.get('/view', (ctx, next) => {
-    ctx.body = view.viewer()
-  })
-  router.get('/notice', (ctx, next) => {
-    ctx.body = ftSync.read('data/notice.json')
-  })
-  router.get('/notice/:index', (ctx, next) => {
-    const index = ctx.params.index
-    ctx.body = ftSync.read('data/notice/'+index+'.html')
-  })
-  router.get('/calendar', (ctx, next) => {
-    ctx.body = ftSync.read('data/calendar.json')
-  })
-  router.get('/meal', async (ctx, next) => {
-    ctx.body = await meal.callBob()
-  })
-  router.get('/link', (ctx, next) => {
-    ctx.body = ftSync.read('data/link.json')
-  })
-  router.get('/schedule/:ban', (ctx, next) => {
-    let ban = ctx.params.ban
-    switch (ban) {
-      case 'all':
-        const obj = []
-        for (let i = 1; i <= global.class.age; i++) {
-          const objinobj = []
-          for (let j = 1; j <= global.class.ban; j++) {
-            objinobj.push(JSON.parse(ftSync.read("data/schedule/" + i + "/" + j + ".json")))
-          }
-          obj.push(objinobj)
-        }
-        ctx.body = JSON.stringify(obj)
-        break;
-      default:
-        const age = ban.slice(0, 1)
-        ban = ban.slice(1)
-        ctx.body = ftSync.read("data/schedule/" + age + "/" + ban + ".json")
-        break;
+
+  router.get('/timetable', async (ctx, next) => {
+    const arr = []
+    for (let i = 1; i <= 3; i++) {
+      const innerArr = []
+      for (let j = 1; j <= 10; j++) {
+        innerArr.push(JSON.parse(await timetable.get(i,j)))
+      }
+      arr.push(innerArr)
     }
+    ctx.body = JSON.stringify(arr)
   })
+
+  router.get('/card', async (ctx, next) => {
+    await card.make()
+    ctx.body = card.data
+  })
+
+  router.get('/make', async (ctx, next) => {
+    await card.make()
+  })
+
+  router.get('/meal', async (ctx, next) => {
+    if (meal.check() == false) {
+      await meal.load()
+    }
+    ctx.body = meal.todaybob()
+  })
+
   app.on('error', (err) => {
-    debug.error(err)
+    debug.err(err)
+    throw err
   })
   app.use(router.routes())
   app.use(router.allowedMethods())

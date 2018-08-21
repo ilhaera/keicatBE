@@ -1,0 +1,36 @@
+{
+  "pages": {
+    "main": [0, 1, 2],
+    "notice": [],
+    "meal": [],
+    "link": [],
+    "calendar": []
+  },
+  "cards": [
+    [0, 1],
+    [2],
+    [3]
+  ],
+  "blocks": [
+    {
+      "type": "title-html",
+      "html": "<i class=\"icon-megaphone theme\"></i>공지사항",
+      "link": "/notice"
+    },
+    {
+      "type": "link",
+      "text": "공지사항 전체 보기",
+      "link": "/notice"
+    },
+    {
+      "type": "title-html",
+      "html": "<i class=\"icon-food theme\"></i>오늘의 급식은?",
+      "link": "/meal"
+    },
+    {
+      "type": "title-html",
+      "html": "<i class=\"icon-calendar theme\"></i>놓치면 안되는 일정",
+      "link": "/calendar"
+    }
+  ]
+}
