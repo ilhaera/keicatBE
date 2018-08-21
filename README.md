@@ -5,10 +5,10 @@
 
 # 구조
 koa 기반 서버입니다.
-data/card/notice : 공지사항
-data/card/link : 링크
-data/card/calendar : 일정
-data/timetable : 시간표
+* data/card/notice : 공지사항
+* data/card/link : 링크
+* data/card/calendar : 일정
+* data/timetable : 시간표
 
 # 명령어
 `npm run dev`를 통해 디버그 모드로 실행이 가능합니다. nodemon이 필요합니다.
@@ -25,4 +25,5 @@ data/timetable : 시간표
 * 백오피스를 빠른 시일 내에 추가할 예정입니다.
 
 # 라이선스
-MIT 라이선스를 따릅니다. 문의는 ilhaera@gmail.com 으로 주세요.
+* MIT 라이선스를 따릅니다.
+* 문의는 ilhaera@gmail.com 으로 주세요.
