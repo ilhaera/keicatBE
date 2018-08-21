@@ -4088,3 +4088,6 @@ imp 3390 포트 작동 중
 imp 급식 로드
 err There's no data in table.
 err There's no data in table.
+imp 카드데이터 로드
+true
+imp 카드데이터 로드 완료
